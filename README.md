@@ -1,4 +1,4 @@
-# EChain-seller-center
+# windmill
 
 ## Project setup
 ```

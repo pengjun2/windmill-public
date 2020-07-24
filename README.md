@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-yarn install
+cnpm install
 ```
 
 ### Compiles and hot-reloads for development

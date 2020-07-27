@@ -5,6 +5,7 @@
     <div class="layout-content">
         <h1>国际化示例</h1>
         <span>{{$t("demo.country")}}------{{$t("home.age")}}</span>
+        <HelloWord></HelloWord>
         <router-view></router-view>
     </div>
 

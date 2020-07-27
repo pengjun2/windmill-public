@@ -6,6 +6,8 @@
 <script>
 
 import Layout from './layout/index.vue';
+// 全局样式
+import './style/index.scss';
 
 export default {
   components: {
